@@ -284,4 +284,4 @@ This repository serves as the official landing page for Brawl Stars. The softwar
 **Get the most recent version of Brawl Stars today!**
 
 ---
-**Last updated:** 2026-10-25 10:53:19 UTC
+**Last updated:** 2026-10-25 14:52:30 UTC
